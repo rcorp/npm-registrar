@@ -1,0 +1,17 @@
+{
+  "name": "npm-registrar",
+  "description": "",
+  "main": "Gruntfile.js",
+  "authors": [
+    "neerajsachan <neerajsachan.biet@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/rcorp/npm-registrar",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
